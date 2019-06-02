@@ -1,0 +1,53 @@
+body{
+    font-size: 20px;
+
+
+}
+a{
+    color: #000000;
+}
+a:hover{
+    text-decoration: none;
+    
+}
+.header{
+    border-top: 5px #29ca8e solid;   
+}
+.nav-item a{
+    line-height: 40px; 
+    margin-right: 10px;
+    border-radius: 4px;
+}
+.nav-item a:focus{
+      border-bottom: 2px solid #29ca8e;
+}
+.number{
+    
+}
+.video{
+    margin-top: 20px;
+}
+#product{
+    margin-top: 60px;
+}
+.product:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+.product{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.img-product{
+   
+    
+}
+.tittle-product{
+    line-height: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.price{
+    color: red;
+    margin-bottom: 20px;
+}
